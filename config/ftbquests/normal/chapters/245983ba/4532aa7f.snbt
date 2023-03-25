@@ -1,0 +1,26 @@
+{
+	x: -6.0d,
+	y: -1.0d,
+	dependencies: [
+		"70efc349",
+		"bb21819e"
+	],
+	tasks: [{
+		uid: "41b90d40",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:draconiumchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "63da9738",
+		type: "item",
+		item: "twilightforest:miniature_structure"
+	}]
+}

@@ -1,0 +1,34 @@
+{
+	title: "Now make an hopper",
+	icon: "minecraft:hopper",
+	x: -16.0d,
+	y: -7.0d,
+	dependencies: [
+		"218fcd04"
+	],
+	tasks: [{
+		uid: "f73c8f6a",
+		type: "item",
+		items: [{
+			item: "minecraft:hopper"
+		}]
+	}],
+	rewards: [{
+		uid: "568f9ccc",
+		type: "item",
+		item: {
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:redstonechicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}
+	},
+	{
+		uid: "d383abea",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

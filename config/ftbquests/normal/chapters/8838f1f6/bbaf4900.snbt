@@ -1,0 +1,21 @@
+{
+	x: -10.0d,
+	y: -5.0d,
+	dependencies: [
+		"72b2e3b2",
+		"ed9c8bb8"
+	],
+	tasks: [{
+		uid: "5efb26b0",
+		type: "item",
+		items: [{
+			item: "extraplanets:item_tier4_rocket"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7d97bd85",
+		type: "item",
+		item: "galacticraftcore:bucket_fuel"
+	}]
+}

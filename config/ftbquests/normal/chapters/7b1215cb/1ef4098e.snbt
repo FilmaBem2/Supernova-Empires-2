@@ -1,0 +1,19 @@
+{
+	x: -2.0d,
+	y: -1.0d,
+	dependencies: [
+		"341b9e6d"
+	],
+	tasks: [{
+		uid: "6ef875b6",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_dust"
+		}]
+	}],
+	rewards: [{
+		uid: "a455efd9",
+		type: "item",
+		item: "cyclicmagic:inventory_food"
+	}]
+}

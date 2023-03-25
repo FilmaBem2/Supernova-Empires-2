@@ -1,0 +1,19 @@
+{
+	x: -1.0d,
+	y: -3.0d,
+	dependencies: [
+		"8cad911c"
+	],
+	tasks: [{
+		uid: "3fd201c4",
+		type: "kill",
+		icon: "draconicevolution:chaotic_core",
+		entity: "draconicevolution:chaosguardian",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "e5e7c19e",
+		type: "ftbmoney:money",
+		ftb_money: 10000L
+	}]
+}

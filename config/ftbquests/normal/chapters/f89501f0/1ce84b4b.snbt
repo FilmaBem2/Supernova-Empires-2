@@ -1,0 +1,24 @@
+{
+	x: -4.0d,
+	y: -3.0d,
+	dependencies: [
+		"1ae190d1"
+	],
+	tasks: [{
+		uid: "ed728977",
+		type: "item",
+		items: [{
+			item: "draconicevolution:energy_crystal 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "f9ba6f45",
+		type: "item",
+		item: "avaritia:neutronium_compressor"
+	},
+	{
+		uid: "c06deb15",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: 2.0d,
+	y: -1.0d,
+	dependencies: [
+		"87b30377"
+	],
+	tasks: [{
+		uid: "c722142c",
+		type: "item",
+		items: [{
+			item: "draconicevolution:crafting_injector"
+		}]
+	}],
+	rewards: [{
+		uid: "57f74388",
+		type: "item",
+		item: "draconicevolution:energy_crystal"
+	},
+	{
+		uid: "848a26b6",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

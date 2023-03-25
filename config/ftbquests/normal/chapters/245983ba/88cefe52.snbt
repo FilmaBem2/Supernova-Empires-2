@@ -1,0 +1,73 @@
+{
+	title: "Basic Chickens",
+	x: -5.0d,
+	y: -3.0d,
+	dependencies: [
+		"a69da81b"
+	],
+	tasks: [{
+		uid: "74d5049c",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:logchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	},
+	{
+		uid: "cea03b6d",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:whitechicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	},
+	{
+		uid: "5041bd05",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:flintchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "d3d7f680",
+		type: "item",
+		item: {
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:coalchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}
+	},
+	{
+		uid: "3464fc7d",
+		type: "item",
+		item: {
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:ironchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "Viniccius13",
+	icon: "minecraft:redstone",
+	x: -4.0d,
+	y: -5.0d,
+	dependencies: [
+		"7ae8b722"
+	],
+	tasks: [{
+		uid: "f7057e72",
+		type: "xp",
+		value: 13L,
+		points: false
+	}],
+	rewards: [{
+		uid: "4b2bfce1",
+		type: "item",
+		item: "minecraft:redstone"
+	},
+	{
+		uid: "ad6e88ad",
+		type: "ftbmoney:money",
+		ftb_money: 13L
+	}]
+}

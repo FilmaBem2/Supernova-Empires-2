@@ -1,0 +1,26 @@
+{
+	title: "Find Redstone",
+	icon: "minecraft:redstone",
+	x: -19.0d,
+	y: -7.0d,
+	dependencies: [
+		"77b79271"
+	],
+	tasks: [{
+		uid: "84f0cfb6",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone"
+		}]
+	}],
+	rewards: [{
+		uid: "585dc70f",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "051780a3",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

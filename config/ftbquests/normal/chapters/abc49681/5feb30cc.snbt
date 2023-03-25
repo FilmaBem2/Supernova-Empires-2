@@ -1,0 +1,24 @@
+{
+	x: -6.0d,
+	y: -6.0d,
+	dependencies: [
+		"b9f5d710"
+	],
+	tasks: [{
+		uid: "63daf7b0",
+		type: "item",
+		items: [{
+			item: "extrautils2:ingredients 1 7"
+		}]
+	}],
+	rewards: [{
+		uid: "0cdda7a1",
+		type: "item",
+		item: "draconicevolution:dislocator"
+	},
+	{
+		uid: "79c48604",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

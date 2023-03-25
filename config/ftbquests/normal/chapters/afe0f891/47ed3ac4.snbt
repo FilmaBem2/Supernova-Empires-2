@@ -1,0 +1,23 @@
+{
+	x: 7.0d,
+	y: -3.0d,
+	dependencies: [
+		"5dd7f3dd"
+	],
+	tasks: [{
+		uid: "9d9f5354",
+		type: "xp",
+		value: 3000L,
+		points: false
+	}],
+	rewards: [{
+		uid: "21337aa3",
+		type: "item",
+		item: "cyclicmagic:placer_block"
+	},
+	{
+		uid: "2f03e34c",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	}]
+}

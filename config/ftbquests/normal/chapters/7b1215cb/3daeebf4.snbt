@@ -1,0 +1,49 @@
+{
+	x: -3.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "47a9b4ee",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:storage 1 4"
+		}],
+		count: 30L
+	}],
+	rewards: [{
+		uid: "095ddbe0",
+		type: "item",
+		item: {
+			id: "mysticalagriculture:supremium_helmet",
+			tag: {}
+		}
+	},
+	{
+		uid: "afe923c1",
+		type: "item",
+		item: {
+			id: "mysticalagriculture:supremium_chestplate",
+			tag: {}
+		}
+	},
+	{
+		uid: "cb87542c",
+		type: "item",
+		item: {
+			id: "mysticalagriculture:supremium_leggings",
+			tag: {}
+		}
+	},
+	{
+		uid: "33af813e",
+		type: "item",
+		item: {
+			id: "mysticalagriculture:supremium_boots",
+			tag: {}
+		}
+	},
+	{
+		uid: "1899615d",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}

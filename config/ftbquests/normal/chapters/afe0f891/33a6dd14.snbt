@@ -1,0 +1,23 @@
+{
+	x: 5.0d,
+	y: -3.0d,
+	dependencies: [
+		"0c2c14d6"
+	],
+	tasks: [{
+		uid: "8036e58b",
+		type: "xp",
+		value: 10000L,
+		points: false
+	}],
+	rewards: [{
+		uid: "cde713aa",
+		type: "item",
+		item: "cfm:modern_tv"
+	},
+	{
+		uid: "90fc687f",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	}]
+}

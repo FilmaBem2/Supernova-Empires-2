@@ -1,0 +1,35 @@
+{
+	x: -3.0d,
+	y: -2.0d,
+	dependencies: [
+		"1ce84b4b"
+	],
+	tasks: [{
+		uid: "22854f82",
+		type: "item",
+		items: [{
+			id: "draconicevolution:draconic_boots",
+			tag: {
+				DEUpgrades: {
+					shieldRec: 3b,
+					shieldCap: 3b,
+					rfCap: 3b,
+					jumpBoost: 3b
+				},
+				Energy: 256000000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f8b1de40",
+		type: "item",
+		item: "avaritia:infinity_pants"
+	},
+	{
+		uid: "90620365",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

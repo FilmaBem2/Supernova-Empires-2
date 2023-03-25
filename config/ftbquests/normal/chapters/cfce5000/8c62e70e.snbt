@@ -1,0 +1,19 @@
+{
+	x: -3.0d,
+	y: -2.0d,
+	dependencies: [
+		"5d4b491c"
+	],
+	tasks: [{
+		uid: "1bef0b0a",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:redstone_alloy_essence"
+		}]
+	}],
+	rewards: [{
+		uid: "8099a67f",
+		type: "xp",
+		xp: 100
+	}]
+}

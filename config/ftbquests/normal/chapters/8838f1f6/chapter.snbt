@@ -1,0 +1,7 @@
+{
+	title: "Space Tour",
+	icon: "extraplanets:item_tier4_rocket",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

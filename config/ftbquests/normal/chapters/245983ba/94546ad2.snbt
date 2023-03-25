@@ -1,0 +1,46 @@
+{
+	x: -2.0d,
+	y: -4.0d,
+	dependencies: [
+		"a95b16ac"
+	],
+	tasks: [{
+		uid: "0945f6c9",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:redstonechicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "c6b15e1d",
+		type: "item",
+		item: {
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:slimechicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}
+	},
+	{
+		uid: "e6244f1f",
+		type: "item",
+		item: {
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:greenchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}
+	}]
+}

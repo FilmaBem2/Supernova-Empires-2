@@ -1,0 +1,24 @@
+{
+	x: 0.0d,
+	y: -1.0d,
+	dependencies: [
+		"8fd5956a"
+	],
+	tasks: [{
+		uid: "cea029f2",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:auto_crafter"
+		}]
+	}],
+	rewards: [{
+		uid: "142e4837",
+		type: "item",
+		item: "cyclicmagic:uncrafting_block"
+	},
+	{
+		uid: "83d40399",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

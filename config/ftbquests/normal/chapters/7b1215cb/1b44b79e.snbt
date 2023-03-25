@@ -1,0 +1,19 @@
+{
+	x: 1.0d,
+	y: -2.0d,
+	dependencies: [
+		"d94f406f"
+	],
+	tasks: [{
+		uid: "ece33682",
+		type: "item",
+		items: [{
+			item: "bigreactors:reactorcontrolrod"
+		}]
+	}],
+	rewards: [{
+		uid: "2d8fb38d",
+		type: "item",
+		item: "enderio:item_basic_capacitor 1 2"
+	}]
+}

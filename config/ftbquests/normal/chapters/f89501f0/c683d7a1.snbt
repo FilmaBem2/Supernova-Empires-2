@@ -1,0 +1,27 @@
+{
+	x: 1.0d,
+	y: 1.0d,
+	dependencies: [
+		"ced11aeb"
+	],
+	tasks: [{
+		uid: "a4c3350c",
+		type: "item",
+		items: [{
+			item: "avaritia:infinity_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f6f63101",
+		type: "item",
+		item: "securitycraft:diamond_mine",
+		count: 64
+	},
+	{
+		uid: "9dcc5967",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

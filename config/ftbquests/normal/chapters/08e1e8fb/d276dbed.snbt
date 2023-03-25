@@ -1,0 +1,26 @@
+{
+	x: -12.0d,
+	y: -5.0d,
+	dependencies: [
+		"a69886e4"
+	],
+	tasks: [{
+		uid: "cb78a5eb",
+		type: "item",
+		items: [{
+			item: "yoyos:stone_yoyo"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "081fa48a",
+		type: "xp_levels",
+		xp_levels: 10
+	},
+	{
+		uid: "3b7592d2",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

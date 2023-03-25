@@ -1,0 +1,24 @@
+{
+	x: 1.0d,
+	y: -1.0d,
+	dependencies: [
+		"1ef4098e"
+	],
+	tasks: [{
+		uid: "31e972f4",
+		type: "item",
+		items: [{
+			item: "draconicevolution:fusion_crafting_core"
+		}]
+	}],
+	rewards: [{
+		uid: "52758279",
+		type: "item",
+		item: "draconicevolution:grinder"
+	},
+	{
+		uid: "1b458b58",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

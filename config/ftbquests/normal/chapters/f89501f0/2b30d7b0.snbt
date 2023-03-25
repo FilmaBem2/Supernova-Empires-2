@@ -1,0 +1,43 @@
+{
+	title: "Upgraded Draconic Staff",
+	x: -5.0d,
+	y: -2.0d,
+	dependencies: [
+		"1ce84b4b"
+	],
+	tasks: [{
+		uid: "365b3094",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 27,
+					Items: []
+				}
+			},
+			id: "draconicevolution:draconic_staff_of_power",
+			tag: {
+				DEUpgrades: {
+					attackDmg: 3b,
+					digSpeed: 3b,
+					digAOE: 3b,
+					rfCap: 3b,
+					attackAOE: 3b
+				},
+				Energy: 768000000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "94cda008",
+		type: "item",
+		item: "avaritia:infinity_helmet"
+	},
+	{
+		uid: "f40ca87a",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

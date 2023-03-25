@@ -1,0 +1,27 @@
+{
+	x: 2.0d,
+	y: -2.0d,
+	dependencies: [
+		"acb8c8fd"
+	],
+	tasks: [{
+		uid: "37c0ac53",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_bow"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f9b8ad73",
+		type: "item",
+		item: "mysticalagriculture:supremium_arrow",
+		count: 64
+	},
+	{
+		uid: "f495e741",
+		type: "ftbmoney:money",
+		ftb_money: 600L
+	}]
+}

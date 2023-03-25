@@ -1,0 +1,24 @@
+{
+	x: -5.0d,
+	y: -3.0d,
+	dependencies: [
+		"bd6f2d22"
+	],
+	tasks: [{
+		uid: "777941ab",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "44ef135f",
+		type: "item",
+		item: "securitycraft:keypad_chest"
+	},
+	{
+		uid: "483c04c5",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

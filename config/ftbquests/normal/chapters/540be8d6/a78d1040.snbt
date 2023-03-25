@@ -1,0 +1,24 @@
+{
+	icon: "vampirism:vampire_fang",
+	x: -2.0d,
+	y: -4.0d,
+	dependencies: [
+		"bd0448cb"
+	],
+	tasks: [{
+		uid: "0a8a8ec5",
+		type: "kill",
+		entity: "vampirism:vampire",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "304250a1",
+		type: "item",
+		item: "vampirism:vampire_blood_bottle"
+	},
+	{
+		uid: "acd2c3d7",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

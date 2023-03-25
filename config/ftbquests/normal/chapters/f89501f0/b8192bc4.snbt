@@ -1,0 +1,24 @@
+{
+	x: 0.0d,
+	y: -2.0d,
+	dependencies: [
+		"18484347"
+	],
+	tasks: [{
+		uid: "a01767ee",
+		type: "item",
+		items: [{
+			item: "draconicevolution:reactor_part"
+		}]
+	}],
+	rewards: [{
+		uid: "5b5957f2",
+		type: "item",
+		item: "avaritia:infinity_sword"
+	},
+	{
+		uid: "c84c1f38",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

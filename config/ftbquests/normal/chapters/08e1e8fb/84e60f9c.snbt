@@ -1,0 +1,24 @@
+{
+	x: -15.0d,
+	y: -4.0d,
+	dependencies: [
+		"4709d610"
+	],
+	tasks: [{
+		uid: "842c3462",
+		type: "item",
+		items: [{
+			item: "vampirism:item_coffin"
+		}]
+	}],
+	rewards: [{
+		uid: "2d8be4a7",
+		type: "xp_levels",
+		xp_levels: 12
+	},
+	{
+		uid: "c9133b4d",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

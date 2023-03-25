@@ -1,0 +1,30 @@
+{
+	title: "Cuck",
+	icon: "twilightforest:crumble_horn",
+	x: -5.0d,
+	y: -5.0d,
+	dependencies: [
+		"de237ff3"
+	],
+	tasks: [{
+		uid: "5c09cbee",
+		type: "xp",
+		value: 11L,
+		points: false
+	}],
+	rewards: [{
+		uid: "ff0d5ce1",
+		type: "item",
+		item: "twilightforest:crumble_horn"
+	},
+	{
+		uid: "bd66ed76",
+		type: "item",
+		item: "twilightforest:crumble_horn"
+	},
+	{
+		uid: "3df4d65d",
+		type: "ftbmoney:money",
+		ftb_money: 11L
+	}]
+}

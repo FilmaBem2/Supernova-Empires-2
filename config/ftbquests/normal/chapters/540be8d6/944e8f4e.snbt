@@ -1,0 +1,24 @@
+{
+	x: -1.0d,
+	y: -4.0d,
+	dependencies: [
+		"8cad911c"
+	],
+	tasks: [{
+		uid: "701a7d4c",
+		type: "kill",
+		icon: "minecraft:skull 1 5",
+		entity: "minecraft:ender_dragon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "f4049331",
+		type: "item",
+		item: "minecraft:elytra"
+	},
+	{
+		uid: "cc91fbed",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	}]
+}

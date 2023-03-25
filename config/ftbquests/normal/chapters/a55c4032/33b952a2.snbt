@@ -1,0 +1,29 @@
+{
+	x: 2.0d,
+	y: -3.0d,
+	dependencies: [
+		"9f77e19f"
+	],
+	tasks: [{
+		uid: "d44e0476",
+		type: "item",
+		items: [{
+			item: "refinedstorage:grid 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "ecad26fc",
+		type: "item",
+		item: {
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_lava"
+			}
+		}
+	},
+	{
+		uid: "b6f4827f",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

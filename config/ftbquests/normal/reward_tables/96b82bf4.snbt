@@ -1,0 +1,23 @@
+{
+	title: "Starting",
+	icon: "minecraft:planks",
+	loot_size: 27,
+	rewards: [{
+		item: "minecraft:planks",
+		count: 64
+	},
+	{
+		item: "minecraft:coal",
+		count: 32
+	},
+	{
+		item: "minecraft:furnace"
+	},
+	{
+		item: "minecraft:iron_ore",
+		count: 10
+	},
+	{
+		item: "minecraft:bow"
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	title: "Upgrade your storage",
+	icon: "ironchest:wood_iron_chest_upgrade",
+	x: -17.0d,
+	y: -9.0d,
+	dependencies: [
+		"0b112e2f"
+	],
+	tasks: [{
+		uid: "0121d124",
+		type: "item",
+		items: [{
+			item: "minecraft:trapped_chest"
+		}]
+	}],
+	rewards: [{
+		uid: "00d24b51",
+		type: "item",
+		item: "ironchest:iron_chest"
+	},
+	{
+		uid: "04a5b15c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

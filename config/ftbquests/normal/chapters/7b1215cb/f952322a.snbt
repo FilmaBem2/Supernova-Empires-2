@@ -1,0 +1,25 @@
+{
+	x: 2.0d,
+	y: -3.0d,
+	dependencies: [
+		"08bf0152"
+	],
+	tasks: [{
+		uid: "8195a5dc",
+		type: "item",
+		items: [{
+			item: "rebornstorage:storagecell 1 1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b2f900c6",
+		type: "item",
+		item: "rebornstorage:multicrafter 1 2"
+	},
+	{
+		uid: "bfa48c01",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

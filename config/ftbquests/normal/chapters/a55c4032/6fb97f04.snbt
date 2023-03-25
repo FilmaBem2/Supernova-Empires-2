@@ -1,0 +1,24 @@
+{
+	x: 2.0d,
+	y: -2.0d,
+	dependencies: [
+		"59072e05"
+	],
+	tasks: [{
+		uid: "cdb9c04a",
+		type: "item",
+		items: [{
+			item: "avaritia:double_compressed_crafting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "46172a22",
+		type: "item",
+		item: "minecraft:slime_ball"
+	},
+	{
+		uid: "02a952a0",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

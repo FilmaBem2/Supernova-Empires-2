@@ -1,0 +1,21 @@
+{
+	x: -7.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "57d6d416",
+		type: "item",
+		items: [{
+			item: "extrautils2:ingredients 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "13343aa8",
+		type: "item",
+		item: "enderio:item_redstone_conduit"
+	},
+	{
+		uid: "a3cf7e20",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

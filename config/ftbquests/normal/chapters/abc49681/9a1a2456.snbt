@@ -1,0 +1,24 @@
+{
+	x: -3.0d,
+	y: -3.0d,
+	dependencies: [
+		"6d761658"
+	],
+	tasks: [{
+		uid: "56a85f46",
+		type: "item",
+		items: [{
+			item: "extrautils2:cursedearth"
+		}]
+	}],
+	rewards: [{
+		uid: "3e888438",
+		type: "item",
+		item: "extrautils2:ingredients 1 10"
+	},
+	{
+		uid: "72f1f474",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

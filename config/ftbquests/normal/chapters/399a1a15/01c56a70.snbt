@@ -1,0 +1,24 @@
+{
+	x: -9.0d,
+	y: -2.0d,
+	dependencies: [
+		"789c5a75"
+	],
+	tasks: [{
+		uid: "1f7c83fc",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:animal_stock_increaser"
+		}]
+	}],
+	rewards: [{
+		uid: "ba25cfee",
+		type: "item",
+		item: "minecraft:hay_block"
+	},
+	{
+		uid: "9ec0af40",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

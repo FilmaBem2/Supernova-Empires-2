@@ -1,0 +1,34 @@
+{
+	icon: "minecraft:bed 1 6",
+	x: 1.0d,
+	y: -5.0d,
+	dependencies: [
+		"622d1070"
+	],
+	tasks: [{
+		uid: "437d5ca7",
+		type: "xp",
+		value: 69L,
+		points: false
+	}],
+	rewards: [{
+		uid: "6a796c2e",
+		type: "item",
+		item: {
+			id: "minecraft:bed",
+			tag: {
+				RepairCost: 0,
+				display: {
+					Name: "Rcst4r Bed"
+				}
+			},
+			Damage: 6s
+		},
+		count: 2
+	},
+	{
+		uid: "902e0b4f",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

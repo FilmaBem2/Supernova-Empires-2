@@ -1,0 +1,24 @@
+{
+	x: -3.0d,
+	y: 1.0d,
+	dependencies: [
+		"d8c0b883"
+	],
+	tasks: [{
+		uid: "1ff495bf",
+		type: "item",
+		items: [{
+			item: "projecte:collector_mk2"
+		}]
+	}],
+	rewards: [{
+		uid: "49b6dc3a",
+		type: "item",
+		item: "draconicevolution:tool_upgrade 1 1"
+	},
+	{
+		uid: "76e63943",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

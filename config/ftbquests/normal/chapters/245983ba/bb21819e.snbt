@@ -1,0 +1,24 @@
+{
+	x: -6.0d,
+	y: -4.0d,
+	dependencies: [
+		"341b9e6d"
+	],
+	tasks: [{
+		uid: "4c8f3f76",
+		type: "item",
+		items: [{
+			item: "minecraft:egg"
+		}]
+	}],
+	rewards: [{
+		uid: "8a7639b9",
+		type: "item",
+		item: {
+			id: "roost:chicken",
+			tag: {
+				Chicken: "minecraft:chicken"
+			}
+		}
+	}]
+}

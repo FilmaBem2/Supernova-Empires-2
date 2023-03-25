@@ -1,0 +1,27 @@
+{
+	x: 3.0d,
+	y: 2.0d,
+	dependencies: [
+		"5ffd0841"
+	],
+	tasks: [{
+		uid: "b159f788",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_dm_pick",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d74e04df",
+		type: "item",
+		item: "projecte:matter_block"
+	},
+	{
+		uid: "f8520682",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

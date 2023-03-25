@@ -1,0 +1,27 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	dependencies: [
+		"70efc349"
+	],
+	tasks: [{
+		uid: "44d1e46d",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_block"
+		}]
+	}],
+	rewards: [{
+		uid: "515192d3",
+		type: "item",
+		item: {
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:draconiumawakenedchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}
+	}]
+}

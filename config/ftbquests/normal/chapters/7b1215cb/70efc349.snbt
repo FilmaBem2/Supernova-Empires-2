@@ -1,0 +1,32 @@
+{
+	x: -1.0d,
+	y: 0.0d,
+	dependencies: [
+		"c4e53135"
+	],
+	tasks: [{
+		uid: "c8444d1b",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "58781a09",
+		type: "item",
+		item: {
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:draconiumchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}
+	},
+	{
+		uid: "37b30f57",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

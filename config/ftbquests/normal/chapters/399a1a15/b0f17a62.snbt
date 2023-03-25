@@ -1,0 +1,31 @@
+{
+	x: -7.0d,
+	y: -5.0d,
+	dependencies: [
+		"f5340b28"
+	],
+	tasks: [{
+		uid: "c02181c4",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:mob_imprisonment_tool"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e58ad79e",
+		type: "item",
+		item: "draconicevolution:mob_soul"
+	},
+	{
+		uid: "b4c70dfc",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "c2aaaf90",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

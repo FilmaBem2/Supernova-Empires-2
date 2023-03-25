@@ -1,0 +1,26 @@
+{
+	icon: "inventorypets:wither_pet",
+	x: -3.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "df4f0f13",
+		type: "kill",
+		entity: "minecraft:wither",
+		value: 1000L
+	}],
+	rewards: [{
+		uid: "af5117a3",
+		type: "item",
+		item: "inventorypets:wither_pet"
+	},
+	{
+		uid: "c021dcc6",
+		type: "xp_levels",
+		xp_levels: 100
+	},
+	{
+		uid: "8c7ef752",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}

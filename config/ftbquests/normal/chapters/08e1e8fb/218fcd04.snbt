@@ -1,0 +1,45 @@
+{
+	title: "Starting with Redstone",
+	icon: "minecraft:redstone_torch",
+	x: -17.0d,
+	y: -7.0d,
+	dependencies: [
+		"0995ad62"
+	],
+	tasks: [{
+		uid: "017a9034",
+		type: "item",
+		items: [{
+			item: "minecraft:lever"
+		}]
+	},
+	{
+		uid: "3b389989",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_button"
+		}]
+	},
+	{
+		uid: "fc49dba8",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone_torch"
+		}]
+	}],
+	rewards: [{
+		uid: "d3c5f315",
+		type: "item",
+		item: "minecraft:repeater"
+	},
+	{
+		uid: "13818965",
+		type: "item",
+		item: "minecraft:comparator"
+	},
+	{
+		uid: "ade9f5f1",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

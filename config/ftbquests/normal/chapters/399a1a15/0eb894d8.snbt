@@ -1,0 +1,24 @@
+{
+	x: -5.0d,
+	y: -5.0d,
+	dependencies: [
+		"d38b2a59"
+	],
+	tasks: [{
+		uid: "cf081fed",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:mob_duplicator"
+		}]
+	}],
+	rewards: [{
+		uid: "e8ea33ef",
+		type: "item",
+		item: "darkutils:filter"
+	},
+	{
+		uid: "9bf43bb4",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

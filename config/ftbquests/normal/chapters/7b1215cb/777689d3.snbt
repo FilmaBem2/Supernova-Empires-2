@@ -1,0 +1,19 @@
+{
+	x: 1.0d,
+	y: 0.0d,
+	dependencies: [
+		"1ef4098e"
+	],
+	tasks: [{
+		uid: "c87dd913",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_core"
+		}]
+	}],
+	rewards: [{
+		uid: "ef8aa4c5",
+		type: "item",
+		item: "extrautils2:passivegenerator 1 8"
+	}]
+}

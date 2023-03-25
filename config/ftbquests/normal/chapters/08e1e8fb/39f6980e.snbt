@@ -1,0 +1,33 @@
+{
+	x: -11.0d,
+	y: -7.0d,
+	dependencies: [
+		"d7dbcd91"
+	],
+	tasks: [{
+		uid: "f15a9e2e",
+		type: "item",
+		items: [{
+			item: "mekanism:energytablet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ac53f398",
+		type: "item",
+		item: {
+			id: "mekanism:robit",
+			tag: {
+				mekData: {
+					energyStored: 100000.0d
+				}
+			}
+		}
+	},
+	{
+		uid: "d0e2efeb",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

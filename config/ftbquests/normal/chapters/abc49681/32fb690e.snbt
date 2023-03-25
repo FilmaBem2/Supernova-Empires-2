@@ -1,0 +1,25 @@
+{
+	x: -2.0d,
+	y: -4.0d,
+	dependencies: [
+		"4ccb6917"
+	],
+	tasks: [{
+		uid: "ccff5a64",
+		type: "item",
+		items: [{
+			item: "extrautils2:spike_gold"
+		}]
+	}],
+	rewards: [{
+		uid: "48c59328",
+		type: "item",
+		item: "minecraft:gold_nugget",
+		count: 10
+	},
+	{
+		uid: "3e6b168a",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

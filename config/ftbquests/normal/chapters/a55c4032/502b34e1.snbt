@@ -1,0 +1,26 @@
+{
+	x: 5.0d,
+	y: -2.0d,
+	dependencies: [
+		"5788d352"
+	],
+	tasks: [{
+		uid: "57cdd06f",
+		type: "item",
+		items: [{
+			item: "mysticalagradditions:inferium_paxel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b2e306f3",
+		type: "item",
+		item: "mysticalagriculture:crafting"
+	},
+	{
+		uid: "4cb78a5c",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}

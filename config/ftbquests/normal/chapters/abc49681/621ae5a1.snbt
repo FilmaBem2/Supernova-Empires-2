@@ -1,0 +1,24 @@
+{
+	x: -7.0d,
+	y: -3.0d,
+	dependencies: [
+		"48c71966"
+	],
+	tasks: [{
+		uid: "d79383e9",
+		type: "item",
+		items: [{
+			item: "extrautils2:redstoneclock"
+		}]
+	}],
+	rewards: [{
+		uid: "f682eb45",
+		type: "item",
+		item: "minecraft:redstone"
+	},
+	{
+		uid: "95ba8db5",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

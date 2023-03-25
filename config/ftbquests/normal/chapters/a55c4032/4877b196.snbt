@@ -1,0 +1,24 @@
+{
+	x: -1.0d,
+	y: -2.0d,
+	dependencies: [
+		"3f8b917f"
+	],
+	tasks: [{
+		uid: "646860fd",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:ultimate_furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "2000d8ff",
+		type: "item",
+		item: "enderio:item_material 1 20"
+	},
+	{
+		uid: "73b35250",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

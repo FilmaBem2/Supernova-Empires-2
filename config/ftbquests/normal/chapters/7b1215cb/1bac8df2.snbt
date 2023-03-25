@@ -1,0 +1,19 @@
+{
+	x: -1.0d,
+	y: -2.0d,
+	dependencies: [
+		"88d5f418"
+	],
+	tasks: [{
+		uid: "8eeef8f1",
+		type: "item",
+		items: [{
+			item: "bigreactors:ingotcyanite"
+		}]
+	}],
+	rewards: [{
+		uid: "a25615c1",
+		type: "item",
+		item: "bigreactors:ingotyellorium"
+	}]
+}

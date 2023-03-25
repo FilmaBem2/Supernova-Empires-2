@@ -1,0 +1,54 @@
+{
+	title: "Wyvern Armor",
+	x: 3.0d,
+	y: -2.0d,
+	dependencies: [
+		"acb8c8fd"
+	],
+	tasks: [{
+		uid: "2608cb87",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_helm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8fdcb477",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_chest"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f100cff5",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "01c176de",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "69311b13",
+		type: "item",
+		item: "draconicevolution:tool_upgrade 1 9"
+	},
+	{
+		uid: "f9bc49c8",
+		type: "ftbmoney:money",
+		ftb_money: 600L
+	}]
+}

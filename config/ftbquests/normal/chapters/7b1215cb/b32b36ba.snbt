@@ -1,0 +1,39 @@
+{
+	title: "Coal Projecte",
+	x: -4.0d,
+	y: -1.0d,
+	dependencies: [
+		"83c5dce5"
+	],
+	tasks: [{
+		uid: "750b2b8b",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_fuel"
+		}]
+	},
+	{
+		uid: "4a53a96d",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_fuel 1 1"
+		}]
+	},
+	{
+		uid: "705a9b06",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_fuel 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "992669a7",
+		type: "item",
+		item: "securitycraft:keypad"
+	},
+	{
+		uid: "46f886ab",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

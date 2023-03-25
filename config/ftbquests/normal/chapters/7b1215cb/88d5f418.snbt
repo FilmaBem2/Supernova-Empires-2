@@ -1,0 +1,16 @@
+{
+	x: -2.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "7a61b6b0",
+		type: "item",
+		items: [{
+			item: "bigreactors:ingotyellorium"
+		}]
+	}],
+	rewards: [{
+		uid: "a71dc69f",
+		type: "item",
+		item: "bigreactors:reactorcontroller"
+	}]
+}

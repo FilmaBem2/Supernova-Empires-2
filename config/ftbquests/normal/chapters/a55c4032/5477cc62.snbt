@@ -1,0 +1,41 @@
+{
+	x: -1.0d,
+	y: -3.0d,
+	dependencies: [
+		"3135c9ac"
+	],
+	tasks: [{
+		uid: "90b8e3de",
+		type: "item",
+		items: [{
+			item: "enderio:item_power_conduit 1 2"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "c18bd715",
+		type: "item",
+		item: "fluxnetworks:fluxplug"
+	},
+	{
+		uid: "5d49116e",
+		type: "item",
+		item: "fluxnetworks:fluxpoint"
+	},
+	{
+		uid: "6b377fe0",
+		type: "item",
+		item: {
+			id: "enderio:block_cap_bank",
+			tag: {
+				"enderio:energy": 1000000
+			},
+			Damage: 1s
+		}
+	},
+	{
+		uid: "041c3a69",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

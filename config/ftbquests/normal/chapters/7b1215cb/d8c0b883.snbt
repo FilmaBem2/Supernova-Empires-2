@@ -1,0 +1,24 @@
+{
+	x: -4.0d,
+	y: 1.0d,
+	dependencies: [
+		"c5934a9a"
+	],
+	tasks: [{
+		uid: "2909f3cf",
+		type: "item",
+		items: [{
+			item: "projecte:collector_mk1"
+		}]
+	}],
+	rewards: [{
+		uid: "8b255c7a",
+		type: "item",
+		item: "securitycraft:keypad_furnace"
+	},
+	{
+		uid: "24641862",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

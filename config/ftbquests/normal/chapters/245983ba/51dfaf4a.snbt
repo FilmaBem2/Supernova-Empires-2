@@ -1,0 +1,25 @@
+{
+	x: 0.0d,
+	y: -3.0d,
+	dependencies: [
+		"fe0cc999"
+	],
+	tasks: [{
+		uid: "3bae7a7f",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:lunarreactivedustchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "6e19ebf8",
+		type: "xp",
+		xp: 100
+	}]
+}

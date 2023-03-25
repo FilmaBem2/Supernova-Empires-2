@@ -1,0 +1,59 @@
+{
+	x: -3.0d,
+	y: -3.0d,
+	dependencies: [
+		"d33a6095"
+	],
+	tasks: [{
+		uid: "600f545b",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:ironchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "3fe6659a",
+		type: "item",
+		item: {
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:conductiveironchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}
+	},
+	{
+		uid: "c8a040fe",
+		type: "item",
+		item: {
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:quartzenrichedironchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}
+	},
+	{
+		uid: "64c22e85",
+		type: "item",
+		item: {
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:pulsatingironchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}
+	}]
+}

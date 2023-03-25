@@ -1,0 +1,24 @@
+{
+	x: 1.0d,
+	y: -3.0d,
+	dependencies: [
+		"78afc16e"
+	],
+	tasks: [{
+		uid: "a8546a8d",
+		type: "item",
+		items: [{
+			item: "draconicevolution:chaos_shard"
+		}]
+	}],
+	rewards: [{
+		uid: "6d81e6a0",
+		type: "item",
+		item: "avaritia:endest_pearl"
+	},
+	{
+		uid: "f9273cf9",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

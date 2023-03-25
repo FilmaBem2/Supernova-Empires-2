@@ -1,0 +1,30 @@
+{
+	x: 7.0d,
+	y: -4.0d,
+	dependencies: [
+		"87381405"
+	],
+	tasks: [{
+		uid: "f362c09d",
+		type: "xp",
+		value: 2500L,
+		points: false
+	}],
+	rewards: [{
+		uid: "c1e49859",
+		type: "item",
+		item: {
+			id: "mekanism:machineblock",
+			tag: {
+				recipeType: 2,
+				mekData: {}
+			},
+			Damage: 7s
+		}
+	},
+	{
+		uid: "f0e74946",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	}]
+}

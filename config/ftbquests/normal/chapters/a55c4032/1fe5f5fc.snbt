@@ -1,0 +1,24 @@
+{
+	x: -6.0d,
+	y: 1.0d,
+	dependencies: [
+		"bcda41fd"
+	],
+	tasks: [{
+		uid: "a098c43f",
+		type: "item",
+		items: [{
+			item: "darkutils:trap_move_hyper"
+		}]
+	}],
+	rewards: [{
+		uid: "0c924777",
+		type: "item",
+		item: "mekanismgenerators:generator 1 5"
+	},
+	{
+		uid: "30a0ff6b",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	title: "Redstone?",
+	icon: "mysticalagriculture:redstone_essence",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

@@ -1,0 +1,23 @@
+{
+	x: 4.0d,
+	y: -3.0d,
+	dependencies: [
+		"33a6dd14"
+	],
+	tasks: [{
+		uid: "d32b80f0",
+		type: "xp",
+		value: 25000L,
+		points: false
+	}],
+	rewards: [{
+		uid: "d565fc0c",
+		type: "item",
+		item: "inventorypets:enchanting_table_pet"
+	},
+	{
+		uid: "2dd77573",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	}]
+}

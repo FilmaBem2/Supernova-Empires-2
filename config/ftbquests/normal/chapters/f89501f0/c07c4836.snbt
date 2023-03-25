@@ -1,0 +1,25 @@
+{
+	x: -2.0d,
+	y: -3.0d,
+	dependencies: [
+		"a3075332"
+	],
+	tasks: [{
+		uid: "78706710",
+		type: "item",
+		items: [{
+			item: "draconicevolution:dislocator_bound 1 1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "aa9cb56d",
+		type: "item",
+		item: "avaritia:resource 1 6"
+	},
+	{
+		uid: "5638286e",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

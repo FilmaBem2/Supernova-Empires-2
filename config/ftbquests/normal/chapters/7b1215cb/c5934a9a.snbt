@@ -1,0 +1,24 @@
+{
+	x: -4.0d,
+	y: 0.0d,
+	dependencies: [
+		"897068a2"
+	],
+	tasks: [{
+		uid: "49c4c22e",
+		type: "item",
+		items: [{
+			item: "projecte:alchemical_chest"
+		}]
+	}],
+	rewards: [{
+		uid: "3c92b0df",
+		type: "item",
+		item: "securitycraft:keycard_reader"
+	},
+	{
+		uid: "5f2b5e1a",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

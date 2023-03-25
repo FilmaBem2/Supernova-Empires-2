@@ -1,0 +1,24 @@
+{
+	x: -8.0d,
+	y: -3.0d,
+	dependencies: [
+		"48c71966"
+	],
+	tasks: [{
+		uid: "c0b51f95",
+		type: "item",
+		items: [{
+			item: "extrautils2:soundmuffler"
+		}]
+	}],
+	rewards: [{
+		uid: "046c612c",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "c2af1bc1",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

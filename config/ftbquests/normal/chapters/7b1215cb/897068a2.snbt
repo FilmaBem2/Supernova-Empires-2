@@ -1,0 +1,19 @@
+{
+	x: -3.0d,
+	y: -1.0d,
+	dependencies: [
+		"b32b36ba"
+	],
+	tasks: [{
+		uid: "c6cfcacb",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_matter"
+		}]
+	}],
+	rewards: [{
+		uid: "1da870f8",
+		type: "item",
+		item: "securitycraft:bucket_f_lava"
+	}]
+}

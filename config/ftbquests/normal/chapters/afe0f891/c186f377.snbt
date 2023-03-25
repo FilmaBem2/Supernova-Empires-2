@@ -1,0 +1,24 @@
+{
+	x: 3.0d,
+	y: -5.0d,
+	dependencies: [
+		"d98ecd70"
+	],
+	tasks: [{
+		uid: "ff53a3da",
+		type: "xp",
+		value: 100L,
+		points: false
+	}],
+	rewards: [{
+		uid: "6f80d1de",
+		type: "item",
+		item: "cyclicmagic:heart_food",
+		count: 3
+	},
+	{
+		uid: "b9511c0e",
+		type: "ftbmoney:money",
+		ftb_money: 35L
+	}]
+}

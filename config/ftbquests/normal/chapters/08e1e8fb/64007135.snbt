@@ -1,0 +1,27 @@
+{
+	title: "Quartz",
+	icon: "minecraft:quartz",
+	x: -17.0d,
+	y: -3.0d,
+	dependencies: [
+		"33d35f7d"
+	],
+	tasks: [{
+		uid: "8f1efc35",
+		type: "item",
+		items: [{
+			item: "minecraft:quartz"
+		}]
+	}],
+	rewards: [{
+		uid: "7a4d14c1",
+		type: "item",
+		item: "minecraft:glowstone_dust",
+		count: 12
+	},
+	{
+		uid: "b7ef856b",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

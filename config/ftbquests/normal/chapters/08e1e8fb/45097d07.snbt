@@ -1,0 +1,56 @@
+{
+	title: "Armor Upgrade",
+	icon: "minecraft:diamond_chestplate",
+	x: -15.0d,
+	y: -6.0d,
+	dependencies: [
+		"eed7e397"
+	],
+	tasks: [{
+		uid: "2724d6ad",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5a7d0612",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ba1452ad",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2583473c",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "614baf20",
+		type: "item",
+		item: "minecraft:diamond",
+		count: 5
+	},
+	{
+		uid: "61580462",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

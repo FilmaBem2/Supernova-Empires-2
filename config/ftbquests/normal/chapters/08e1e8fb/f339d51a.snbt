@@ -1,0 +1,25 @@
+{
+	x: -9.0d,
+	y: -8.0d,
+	dependencies: [
+		"39f6980e"
+	],
+	tasks: [{
+		uid: "1eff8e5c",
+		type: "item",
+		items: [{
+			item: "mekanismgenerators:generator 1 6"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "973050f7",
+		type: "item",
+		item: "mekanism:freerunners"
+	},
+	{
+		uid: "0a992fa7",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

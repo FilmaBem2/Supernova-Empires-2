@@ -1,0 +1,28 @@
+{
+	x: 7.0d,
+	y: -5.0d,
+	dependencies: [
+		"52187287"
+	],
+	tasks: [{
+		uid: "14c15c5b",
+		type: "xp",
+		value: 2000L,
+		points: false
+	}],
+	rewards: [{
+		uid: "1c8412ef",
+		type: "item",
+		item: "cfm:grand_chair_bottom"
+	},
+	{
+		uid: "65deee14",
+		type: "item",
+		item: "cfm:modern_table_outdoor"
+	},
+	{
+		uid: "9b873a00",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	}]
+}

@@ -1,0 +1,37 @@
+{
+	x: 5.0d,
+	y: -3.0d,
+	dependencies: [
+		"1790a3ed",
+		"41368bfc"
+	],
+	tasks: [{
+		uid: "2b25e550",
+		type: "item",
+		items: [{
+			item: "mekanism:atomicdisassembler"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "85e3d02e",
+		type: "item",
+		item: {
+			id: "mekanism:armoredjetpack",
+			tag: {
+				mekData: {
+					stored: {
+						amount: 24000,
+						gasName: "hydrogen"
+					}
+				}
+			}
+		}
+	},
+	{
+		uid: "ec6b7a16",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

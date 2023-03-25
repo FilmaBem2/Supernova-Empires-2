@@ -1,0 +1,24 @@
+{
+	x: -9.0d,
+	y: -3.0d,
+	dependencies: [
+		"f5340b28"
+	],
+	tasks: [{
+		uid: "54b2d083",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:crop_enrich_material_injector"
+		}]
+	}],
+	rewards: [{
+		uid: "3c2796f7",
+		type: "item",
+		item: "minecraft:hay_block"
+	},
+	{
+		uid: "09348ca6",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: -4.0d,
+	y: -2.0d,
+	dependencies: [
+		"bd0448cb"
+	],
+	tasks: [{
+		uid: "bedcfeda",
+		type: "kill",
+		icon: "minecraft:skull",
+		entity: "minecraft:skeleton",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "a541d99d",
+		type: "item",
+		item: "minecraft:skull"
+	},
+	{
+		uid: "24e928c0",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

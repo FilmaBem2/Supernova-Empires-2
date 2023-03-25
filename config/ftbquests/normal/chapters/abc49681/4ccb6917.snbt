@@ -1,0 +1,24 @@
+{
+	x: -3.0d,
+	y: -4.0d,
+	dependencies: [
+		"9545256d"
+	],
+	tasks: [{
+		uid: "ebcd2265",
+		type: "item",
+		items: [{
+			item: "extrautils2:spike_iron"
+		}]
+	}],
+	rewards: [{
+		uid: "ac2b005c",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "bca14740",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

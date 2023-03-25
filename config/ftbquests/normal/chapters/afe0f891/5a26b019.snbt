@@ -1,0 +1,22 @@
+{
+	title: "Noob",
+	icon: "minecraft:skull 1 3",
+	x: -8.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "23cf9a97",
+		type: "xp",
+		value: 1L,
+		points: false
+	}],
+	rewards: [{
+		uid: "65158c8b",
+		type: "item",
+		item: "minecraft:fireworks"
+	},
+	{
+		uid: "8e0dd0e9",
+		type: "ftbmoney:money",
+		ftb_money: 1L
+	}]
+}

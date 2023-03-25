@@ -1,0 +1,25 @@
+{
+	x: -3.0d,
+	y: -5.0d,
+	dependencies: [
+		"191d75d9"
+	],
+	tasks: [{
+		uid: "5e9d676a",
+		type: "item",
+		items: [{
+			item: "extrautils2:goldenlasso"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d83eaddf",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "af398ec8",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

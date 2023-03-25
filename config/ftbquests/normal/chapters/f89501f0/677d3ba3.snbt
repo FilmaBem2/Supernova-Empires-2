@@ -1,0 +1,88 @@
+{
+	title: "Upgraded Draconic Armor",
+	x: -4.0d,
+	y: -2.0d,
+	dependencies: [
+		"1ce84b4b"
+	],
+	tasks: [{
+		uid: "367ba09c",
+		type: "item",
+		items: [{
+			id: "draconicevolution:draconic_helm",
+			tag: {
+				DEUpgrades: {
+					shieldRec: 3b,
+					shieldCap: 3b,
+					rfCap: 3b
+				},
+				Energy: 256000000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "91589533",
+		type: "item",
+		items: [{
+			id: "draconicevolution:draconic_chest",
+			tag: {
+				DEUpgrades: {
+					shieldRec: 3b,
+					shieldCap: 3b,
+					rfCap: 3b
+				},
+				Energy: 256000000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c4bc1533",
+		type: "item",
+		items: [{
+			id: "draconicevolution:draconic_legs",
+			tag: {
+				DEUpgrades: {
+					moveSpeed: 3b,
+					shieldRec: 3b,
+					shieldCap: 3b,
+					rfCap: 3b
+				},
+				Energy: 256000000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "cdc1a77f",
+		type: "item",
+		items: [{
+			id: "draconicevolution:draconic_boots",
+			tag: {
+				DEUpgrades: {
+					shieldRec: 3b,
+					shieldCap: 3b,
+					rfCap: 3b,
+					jumpBoost: 3b
+				},
+				Energy: 256000000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ad811e41",
+		type: "item",
+		item: "avaritia:infinity_chestplate"
+	},
+	{
+		uid: "5fb18b7c",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

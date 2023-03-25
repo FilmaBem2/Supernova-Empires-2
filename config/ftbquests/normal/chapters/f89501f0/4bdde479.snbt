@@ -1,0 +1,27 @@
+{
+	x: 1.0d,
+	y: 0.0d,
+	dependencies: [
+		"ced11aeb"
+	],
+	tasks: [{
+		uid: "7b8022e8",
+		type: "item",
+		items: [{
+			item: "avaritia:infinity_pants"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fe2fb84b",
+		type: "item",
+		item: "cyclicmagic:ender_tnt_6",
+		count: 64
+	},
+	{
+		uid: "3edc5139",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

@@ -1,0 +1,9 @@
+{
+	title: "XP",
+	icon: "morechickens:solidxp",
+	loot_size: 27,
+	rewards: [{
+		xp_levels: 10,
+		type: "xp_levels"
+	}]
+}

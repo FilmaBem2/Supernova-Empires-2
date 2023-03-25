@@ -1,0 +1,27 @@
+{
+	x: 4.0d,
+	y: -1.0d,
+	dependencies: [
+		"5788d352"
+	],
+	tasks: [{
+		uid: "fb2f0fd1",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:prudentium_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1e273c5e",
+		type: "item",
+		item: "mysticalagriculture:coal 1 1",
+		count: 30
+	},
+	{
+		uid: "acdb255e",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

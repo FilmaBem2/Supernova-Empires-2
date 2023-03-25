@@ -1,0 +1,30 @@
+{
+	x: -2.0d,
+	y: 0.0d,
+	dependencies: [
+		"c683d7a1",
+		"b755f5ce",
+		"bde4643f",
+		"4bdde479"
+	],
+	tasks: [{
+		uid: "1e4495dc",
+		type: "item",
+		items: [{
+			item: "avaritia:infinity_bow"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c2abc6c1",
+		type: "item",
+		item: "mysticalagriculture:supremium_arrow",
+		count: 64
+	},
+	{
+		uid: "b132f51e",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

@@ -1,0 +1,33 @@
+{
+	x: -3.0d,
+	y: -4.0d,
+	dependencies: [
+		"ae0a9572"
+	],
+	tasks: [{
+		uid: "0c85b65e",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:diamondchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "152fd586",
+		type: "item",
+		item: {
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:gunpowderchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}
+	}]
+}

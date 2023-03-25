@@ -1,0 +1,21 @@
+{
+	x: -1.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "51d7b160",
+		type: "item",
+		items: [{
+			item: "extrautils2:pipe"
+		}]
+	}],
+	rewards: [{
+		uid: "2eda9dd8",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "86182552",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

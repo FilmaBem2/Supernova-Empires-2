@@ -1,0 +1,29 @@
+{
+	title: "Make a diamond pickaxe",
+	icon: "minecraft:diamond_pickaxe",
+	x: -17.0d,
+	y: -6.0d,
+	dependencies: [
+		"50ada610",
+		"a08b9391"
+	],
+	tasks: [{
+		uid: "adb5261f",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "97641fb0",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "39bf9efa",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

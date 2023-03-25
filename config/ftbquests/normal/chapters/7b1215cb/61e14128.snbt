@@ -1,0 +1,34 @@
+{
+	x: 7.0d,
+	y: 1.0d,
+	dependencies: [
+		"d314888e"
+	],
+	tasks: [{
+		uid: "31df5d6e",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "24cd7cda",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "ed3cc4b1",
+		type: "item",
+		item: {
+			id: "securitycraft:limited_use_keycard",
+			tag: {
+				Uses: 5
+			}
+		}
+	},
+	{
+		uid: "dd9315d1",
+		type: "ftbmoney:money",
+		ftb_money: 3000L
+	}]
+}

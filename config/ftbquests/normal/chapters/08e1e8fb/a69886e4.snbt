@@ -1,0 +1,28 @@
+{
+	x: -13.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "9d109b37",
+		type: "item",
+		items: [{
+			item: "yoyos:wooden_yoyo"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4630076b",
+		type: "xp_levels",
+		xp_levels: 10
+	},
+	{
+		uid: "17c6fa39",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	},
+	{
+		uid: "b51ea789",
+		type: "loot",
+		table: 2
+	}]
+}

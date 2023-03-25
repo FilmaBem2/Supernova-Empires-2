@@ -1,0 +1,27 @@
+{
+	x: -4.0d,
+	y: -3.0d,
+	dependencies: [
+		"341b9e6d"
+	],
+	tasks: [{
+		uid: "dc4474a8",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_philosophers_stone",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "085f4bb6",
+		type: "item",
+		item: "projecte:item.pe_repair_talisman"
+	},
+	{
+		uid: "862b9e4a",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

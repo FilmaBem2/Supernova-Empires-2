@@ -1,0 +1,25 @@
+{
+	title: "illuminati",
+	icon: "inventorypets:illuminati_pet",
+	x: 5.0d,
+	y: -5.0d,
+	dependencies: [
+		"b6823fdd"
+	],
+	tasks: [{
+		uid: "fad189f9",
+		type: "xp",
+		value: 333L,
+		points: false
+	}],
+	rewards: [{
+		uid: "6e78d041",
+		type: "item",
+		item: "inventorypets:illuminati_pet"
+	},
+	{
+		uid: "a0be6b98",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

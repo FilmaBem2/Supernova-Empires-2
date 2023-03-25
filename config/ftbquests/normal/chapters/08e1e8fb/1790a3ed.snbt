@@ -1,0 +1,29 @@
+{
+	x: -11.0d,
+	y: -9.0d,
+	dependencies: [
+		"659998d0",
+		"688a04df"
+	],
+	tasks: [{
+		uid: "574dfcae",
+		type: "item",
+		items: [{
+			id: "mekanism:energycube",
+			tag: {
+				tier: 0
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5e102166",
+		type: "item",
+		item: "draconicevolution:energy_infuser"
+	},
+	{
+		uid: "2905d6fc",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

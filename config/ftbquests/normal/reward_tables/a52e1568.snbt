@@ -1,0 +1,9 @@
+{
+	title: "5000 $",
+	icon: "minecraft:emerald",
+	loot_size: 27,
+	rewards: [{
+		ftb_money: 5000L,
+		type: "ftbmoney:money"
+	}]
+}

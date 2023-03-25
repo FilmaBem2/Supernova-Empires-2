@@ -1,0 +1,17 @@
+{
+	x: -6.0d,
+	y: -4.0d,
+	dependencies: [
+		"6c180e1d"
+	],
+	tasks: [{
+		uid: "2e67367a",
+		type: "dimension",
+		dim: -18
+	}],
+	rewards: [{
+		uid: "fb8b9e98",
+		type: "xp_levels",
+		xp_levels: 50
+	}]
+}

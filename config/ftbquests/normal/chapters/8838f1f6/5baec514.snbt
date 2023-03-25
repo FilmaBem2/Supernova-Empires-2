@@ -1,0 +1,31 @@
+{
+	x: -13.0d,
+	y: -5.0d,
+	dependencies: [
+		"875ca8b5"
+	],
+	tasks: [{
+		uid: "56c69760",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:rocket_t1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "80e75753",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "eabea5f5",
+		type: "item",
+		item: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "xpjuice",
+				Amount: 1000
+			}
+		}
+	}]
+}

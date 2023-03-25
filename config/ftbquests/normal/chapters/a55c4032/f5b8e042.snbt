@@ -1,0 +1,27 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	dependencies: [
+		"224545b1"
+	],
+	tasks: [{
+		uid: "c02a42b3",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:intermedium_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c2d8ff86",
+		type: "item",
+		item: "mysticalagriculture:coal 1 2",
+		count: 25
+	},
+	{
+		uid: "680b27f6",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: 3.0d,
+	y: -2.0d,
+	dependencies: [
+		"2e20f891"
+	],
+	tasks: [{
+		uid: "2142afac",
+		type: "kill",
+		entity: "galacticraftcore:evolved_enderman",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "7bc60b20",
+		type: "xp_levels",
+		xp_levels: 100
+	},
+	{
+		uid: "e0bd12da",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

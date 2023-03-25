@@ -1,0 +1,21 @@
+{
+	x: -6.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "ede68f83",
+		type: "item",
+		items: [{
+			item: "darkutils:trap_move"
+		}]
+	}],
+	rewards: [{
+		uid: "4061ca9a",
+		type: "item",
+		item: "minecraft:beacon"
+	},
+	{
+		uid: "5c219ed1",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

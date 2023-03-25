@@ -1,0 +1,25 @@
+{
+	x: -6.0d,
+	y: -5.0d,
+	dependencies: [
+		"48c71966"
+	],
+	tasks: [{
+		uid: "ed6287c3",
+		type: "item",
+		items: [{
+			item: "extrautils2:angelring"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "123a5bb3",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "9596ca16",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

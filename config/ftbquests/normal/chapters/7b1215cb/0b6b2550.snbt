@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	dependencies: [
+		"85844244"
+	],
+	tasks: [{
+		uid: "51ff05c6",
+		type: "item",
+		items: [{
+			item: "draconicevolution:chaotic_core"
+		}]
+	}],
+	rewards: [{
+		uid: "50dee6d3",
+		type: "xp_levels",
+		xp_levels: 30
+	}]
+}

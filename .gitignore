@@ -6,3 +6,17 @@ saves/
 manifest.json
 minecraftinstance.json
 modlist.html
+tv-cache/
+journeymap/data/
+journeymap/icon/
+journeymap/server/
+journeymap/journeymap.log
+debug/
+knownkeys.txt
+bendspacks/
+crafttweaker.log
+usercache.json
+usernamecache.json
+options.txt
+optionsof.txt
+.ReAuth.cfg

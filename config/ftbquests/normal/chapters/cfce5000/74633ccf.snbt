@@ -1,0 +1,19 @@
+{
+	x: -6.0d,
+	y: -1.0d,
+	dependencies: [
+		"309a2cc2"
+	],
+	tasks: [{
+		uid: "48a0c3b6",
+		type: "item",
+		items: [{
+			item: "extrautils2:ingredients"
+		}]
+	}],
+	rewards: [{
+		uid: "e3155cc8",
+		type: "xp",
+		xp: 100
+	}]
+}

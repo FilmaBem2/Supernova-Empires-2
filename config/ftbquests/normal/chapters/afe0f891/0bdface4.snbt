@@ -1,0 +1,24 @@
+{
+	icon: "inventorypets:meta_pet",
+	x: 3.0d,
+	y: -3.0d,
+	dependencies: [
+		"8647f6e8"
+	],
+	tasks: [{
+		uid: "8cba092f",
+		type: "xp",
+		value: 50000L,
+		points: false
+	}],
+	rewards: [{
+		uid: "b38a40fc",
+		type: "item",
+		item: "inventorypets:meta_pet"
+	},
+	{
+		uid: "071ebbe9",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	}]
+}

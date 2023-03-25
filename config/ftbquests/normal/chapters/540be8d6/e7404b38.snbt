@@ -1,0 +1,23 @@
+{
+	x: 1.0d,
+	y: -4.0d,
+	dependencies: [
+		"2e20f891"
+	],
+	tasks: [{
+		uid: "073472ec",
+		type: "kill",
+		entity: "galacticraftcore:evolved_spider",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "d37f174f",
+		type: "xp_levels",
+		xp_levels: 100
+	},
+	{
+		uid: "0b11cc6e",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

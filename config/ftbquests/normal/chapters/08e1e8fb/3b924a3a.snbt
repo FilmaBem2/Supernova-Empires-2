@@ -1,0 +1,28 @@
+{
+	title: "The End?",
+	icon: "minecraft:end_stone",
+	x: -19.0d,
+	y: -3.0d,
+	dependencies: [
+		"904da7c5",
+		"64007135",
+		"8cad911c"
+	],
+	tasks: [{
+		uid: "726e95af",
+		type: "item",
+		items: [{
+			item: "minecraft:end_stone"
+		}]
+	}],
+	rewards: [{
+		uid: "961886dc",
+		type: "item",
+		item: "inventorypets:enderman_pet"
+	},
+	{
+		uid: "fbf3c6e5",
+		type: "ftbmoney:money",
+		ftb_money: 12L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: -1.0d,
+	y: -2.0d,
+	dependencies: [
+		"18484347"
+	],
+	tasks: [{
+		uid: "237c5028",
+		type: "item",
+		items: [{
+			item: "draconicevolution:particle_generator 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "f03a2d54",
+		type: "item",
+		item: "avaritia:infinity_bow"
+	},
+	{
+		uid: "5c12a5f1",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

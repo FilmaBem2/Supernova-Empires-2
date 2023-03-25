@@ -1,0 +1,29 @@
+{
+	title: "Prepare for Nether",
+	icon: "minecraft:obsidian",
+	x: -20.0d,
+	y: -5.0d,
+	dependencies: [
+		"eed7e397",
+		"a08b9391"
+	],
+	tasks: [{
+		uid: "0d9a1036",
+		type: "item",
+		icon: "minecraft:obsidian",
+		items: [{
+			item: "minecraft:obsidian"
+		}],
+		count: 14L
+	}],
+	rewards: [{
+		uid: "8a10a0a3",
+		type: "item",
+		item: "minecraft:flint_and_steel"
+	},
+	{
+		uid: "abcccaeb",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

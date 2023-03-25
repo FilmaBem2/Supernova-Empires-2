@@ -1,0 +1,25 @@
+{
+	x: 3.0d,
+	y: -3.0d,
+	dependencies: [
+		"33b952a2"
+	],
+	tasks: [{
+		uid: "b17354f6",
+		type: "item",
+		items: [{
+			item: "refinedstorageaddons:wireless_crafting_grid"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1c81787b",
+		type: "item",
+		item: "extrautils2:powertransmitter"
+	},
+	{
+		uid: "78651249",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	x: -5.0d,
+	y: -1.0d,
+	dependencies: [
+		"4532aa7f",
+		"78afc16e",
+		"bb21819e"
+	],
+	tasks: [{
+		uid: "fe0a04a4",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:draconiumawakenedchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "4c947e27",
+		type: "item",
+		item: "draconicevolution:diss_enchanter"
+	}]
+}

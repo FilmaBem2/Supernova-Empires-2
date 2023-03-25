@@ -1,0 +1,26 @@
+{
+	title: "Find Coal",
+	icon: "minecraft:coal",
+	x: -20.0d,
+	y: -7.0d,
+	dependencies: [
+		"341b9e6d"
+	],
+	tasks: [{
+		uid: "a68b3a88",
+		type: "item",
+		items: [{
+			item: "minecraft:coal"
+		}]
+	}],
+	rewards: [{
+		uid: "45a3808c",
+		type: "item",
+		item: "minecraft:coal"
+	},
+	{
+		uid: "323d74d7",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

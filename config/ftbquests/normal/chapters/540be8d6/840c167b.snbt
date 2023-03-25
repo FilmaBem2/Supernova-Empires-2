@@ -1,0 +1,24 @@
+{
+	icon: "minecraft:skull 1 4",
+	x: -2.0d,
+	y: -3.0d,
+	dependencies: [
+		"bd0448cb"
+	],
+	tasks: [{
+		uid: "8835b3b5",
+		type: "kill",
+		entity: "minecraft:creeper",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "a348dc19",
+		type: "item",
+		item: "minecraft:skull 1 4"
+	},
+	{
+		uid: "cd1e00db",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

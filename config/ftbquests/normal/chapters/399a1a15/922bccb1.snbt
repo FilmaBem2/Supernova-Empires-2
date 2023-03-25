@@ -1,0 +1,24 @@
+{
+	x: -6.0d,
+	y: -3.0d,
+	dependencies: [
+		"ac151413"
+	],
+	tasks: [{
+		uid: "9e58d8cc",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:block_placer"
+		}]
+	}],
+	rewards: [{
+		uid: "90dfe4da",
+		type: "item",
+		item: "vampirism:fire_place"
+	},
+	{
+		uid: "547d5f02",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

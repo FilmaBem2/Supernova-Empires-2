@@ -1,0 +1,27 @@
+{
+	x: 4.0d,
+	y: 2.0d,
+	dependencies: [
+		"f5ae89f0"
+	],
+	tasks: [{
+		uid: "7184b564",
+		type: "item",
+		items: [{
+			id: "mysticalagriculture:supremium_pickaxe",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9aebdbd6",
+		type: "item",
+		item: "mysticalagriculture:supremium_apple"
+	},
+	{
+		uid: "57e4d3ef",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

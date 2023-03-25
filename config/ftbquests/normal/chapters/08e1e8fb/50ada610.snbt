@@ -1,0 +1,79 @@
+{
+	title: "First Armor and Tools",
+	icon: "minecraft:iron_chestplate",
+	x: -19.0d,
+	y: -8.0d,
+	dependencies: [
+		"2a973db3",
+		"77b79271"
+	],
+	tasks: [{
+		uid: "dfa89f12",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a59ccb55",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f5afd0ff",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "483ac440",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "225a22b4",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7129b99e",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ca3a2f2d",
+		type: "item",
+		item: {
+			id: "inventorypets:iron_golem_pet",
+			tag: {
+				GiveItems: 1b
+			}
+		}
+	},
+	{
+		uid: "14681f63",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

@@ -1,0 +1,34 @@
+{
+	title: "Find Diamond",
+	icon: "minecraft:diamond",
+	x: -20.0d,
+	y: -6.0d,
+	dependencies: [
+		"77b79271"
+	],
+	tasks: [{
+		uid: "cddb107c",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond"
+		}]
+	}],
+	rewards: [{
+		uid: "5e7bd9e6",
+		type: "advancement",
+		title: "Nice Boy",
+		icon: "minecraft:diamond",
+		advancement: "",
+		criterion: ""
+	},
+	{
+		uid: "216c4853",
+		type: "item",
+		item: "inventorypets:nugget_diamond"
+	},
+	{
+		uid: "9aa4a4f8",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

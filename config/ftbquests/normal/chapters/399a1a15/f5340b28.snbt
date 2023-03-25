@@ -1,0 +1,29 @@
+{
+	x: -9.0d,
+	y: -5.0d,
+	dependencies: [
+		"45097d07"
+	],
+	tasks: [{
+		uid: "75e567d2",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:plastic"
+		}]
+	}],
+	rewards: [{
+		uid: "e614291b",
+		type: "item",
+		item: "mekanism:slickplasticblock 1 15"
+	},
+	{
+		uid: "f95e8cc3",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "a902f014",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	icon: "enderio:block_enderman_skull",
+	x: -1.0d,
+	y: -2.0d,
+	dependencies: [
+		"8cad911c"
+	],
+	tasks: [{
+		uid: "c81b2f77",
+		type: "kill",
+		entity: "minecraft:enderman",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "bcc5cd09",
+		type: "item",
+		item: "enderio:block_enderman_skull"
+	},
+	{
+		uid: "1eb119db",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

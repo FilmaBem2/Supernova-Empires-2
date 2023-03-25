@@ -1,0 +1,24 @@
+{
+	x: -1.0d,
+	y: -1.0d,
+	dependencies: [
+		"1ef4098e"
+	],
+	tasks: [{
+		uid: "bbf6c449",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "cf685b6e",
+		type: "xp",
+		xp: 1000
+	},
+	{
+		uid: "5ff9472f",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	x: -13.0d,
+	y: -8.0d,
+	dependencies: [
+		"d7e690f1"
+	],
+	tasks: [{
+		uid: "8b72f871",
+		type: "item",
+		items: [{
+			item: "mekanism:speedupgrade"
+		}]
+	}],
+	rewards: [{
+		uid: "a074364c",
+		type: "item",
+		item: {
+			id: "mekanism:transmitter",
+			tag: {
+				tier: 0
+			}
+		},
+		count: 16
+	},
+	{
+		uid: "3df8294e",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	x: 5.0d,
+	y: 0.0d,
+	dependencies: [
+		"f5b8e042"
+	],
+	tasks: [{
+		uid: "55ddc3a6",
+		type: "item",
+		items: [{
+			item: "mysticalagradditions:intermedium_paxel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0f4daa5c",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "f974b920",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

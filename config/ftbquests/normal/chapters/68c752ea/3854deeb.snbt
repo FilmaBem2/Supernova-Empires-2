@@ -1,0 +1,27 @@
+{
+	x: -6.0d,
+	y: -3.0d,
+	dependencies: [
+		"f89501f0"
+	],
+	tasks: [{
+		uid: "fdef95b4",
+		type: "item",
+		items: [{
+			item: "avaritia:infinity_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f775d115",
+		type: "item",
+		item: "avaritia:block_resource",
+		count: 64
+	},
+	{
+		uid: "4c65ca3e",
+		type: "ftbmoney:money",
+		ftb_money: 1000000L
+	}]
+}

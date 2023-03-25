@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: -1.0d,
+	dependencies: [
+		"c4e53135"
+	],
+	tasks: [{
+		uid: "8953b694",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_block"
+		}]
+	}],
+	rewards: [{
+		uid: "1bf0addb",
+		type: "item",
+		item: "mysticalagriculture:draconium_seeds"
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	x: -3.0d,
+	y: -2.0d,
+	dependencies: [
+		"83c5dce5"
+	],
+	tasks: [{
+		uid: "a7bf23fb",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_transmutation_tablet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cd918088",
+		type: "item",
+		item: {
+			id: "projecte:item.pe_destruction_catalyst",
+			tag: {}
+		}
+	},
+	{
+		uid: "4a3d7245",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

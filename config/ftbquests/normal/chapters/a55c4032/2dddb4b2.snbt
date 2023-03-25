@@ -1,0 +1,24 @@
+{
+	x: 1.0d,
+	y: -3.0d,
+	dependencies: [
+		"9f77e19f"
+	],
+	tasks: [{
+		uid: "fc102573",
+		type: "item",
+		items: [{
+			item: "refinedstorage:disk_drive"
+		}]
+	}],
+	rewards: [{
+		uid: "9442b5c3",
+		type: "item",
+		item: "refinedstorage:storage_disk"
+	},
+	{
+		uid: "d96c6fee",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

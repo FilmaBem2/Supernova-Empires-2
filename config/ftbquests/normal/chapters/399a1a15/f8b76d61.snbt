@@ -1,0 +1,24 @@
+{
+	x: -3.0d,
+	y: -5.0d,
+	dependencies: [
+		"817e12c2"
+	],
+	tasks: [{
+		uid: "b55104ee",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:wither_builder"
+		}]
+	}],
+	rewards: [{
+		uid: "b71053bf",
+		type: "item",
+		item: "extrautils2:itemcreativebuilderswand"
+	},
+	{
+		uid: "8a537133",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: 1.0d,
+	dependencies: [
+		"9d4be3d3"
+	],
+	tasks: [{
+		uid: "9055cbd7",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_energy_core"
+		}]
+	}],
+	rewards: [{
+		uid: "3b84a867",
+		type: "item",
+		item: "avaritia:resource 1 2"
+	}]
+}

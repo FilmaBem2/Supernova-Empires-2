@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: -2.0d,
+	dependencies: [
+		"1bac8df2"
+	],
+	tasks: [{
+		uid: "12885279",
+		type: "item",
+		items: [{
+			item: "bigreactors:reactorfuelrod"
+		}]
+	}],
+	rewards: [{
+		uid: "5c3b8395",
+		type: "item",
+		item: "securitycraft:reinforced_glass_block"
+	}]
+}

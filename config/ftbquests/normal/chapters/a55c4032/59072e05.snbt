@@ -1,0 +1,25 @@
+{
+	x: 1.0d,
+	y: -2.0d,
+	dependencies: [
+		"8fd5956a"
+	],
+	tasks: [{
+		uid: "7daa33ef",
+		type: "item",
+		items: [{
+			item: "avaritia:compressed_crafting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "5f0115eb",
+		type: "item",
+		item: "securitycraft:keypad_chest",
+		count: 12
+	},
+	{
+		uid: "12d1ddcd",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

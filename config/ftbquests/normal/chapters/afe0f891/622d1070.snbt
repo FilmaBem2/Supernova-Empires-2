@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: -5.0d,
+	dependencies: [
+		"d7a15eac"
+	],
+	tasks: [{
+		uid: "43a4de6f",
+		type: "xp",
+		value: 60L,
+		points: false
+	}],
+	rewards: [{
+		uid: "309dcd06",
+		type: "item",
+		item: "cyclicmagic:heart_food",
+		count: 2
+	}]
+}

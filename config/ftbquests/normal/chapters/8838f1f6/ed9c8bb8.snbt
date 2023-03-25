@@ -1,0 +1,25 @@
+{
+	x: -11.0d,
+	y: -5.0d,
+	dependencies: [
+		"88231ebc"
+	],
+	tasks: [{
+		uid: "8a6bb8d7",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:rocket_t3"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e5b8245f",
+		type: "item",
+		item: "galacticraftcore:bucket_fuel"
+	},
+	{
+		uid: "cd6dcbbf",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	}]
+}

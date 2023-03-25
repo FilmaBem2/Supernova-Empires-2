@@ -1,0 +1,24 @@
+{
+	x: -7.0d,
+	y: -3.0d,
+	dependencies: [
+		"f5340b28"
+	],
+	tasks: [{
+		uid: "50b93956",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:block_destroyer"
+		}]
+	}],
+	rewards: [{
+		uid: "f051cf0a",
+		type: "item",
+		item: "betterbuilderswands:wandunbreakable"
+	},
+	{
+		uid: "16be0caf",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

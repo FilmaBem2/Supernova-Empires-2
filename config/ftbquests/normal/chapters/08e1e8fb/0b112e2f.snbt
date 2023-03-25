@@ -1,0 +1,26 @@
+{
+	title: "Make your first storage",
+	icon: "minecraft:chest",
+	x: -18.0d,
+	y: -9.0d,
+	dependencies: [
+		"341b9e6d"
+	],
+	tasks: [{
+		uid: "f119d480",
+		type: "item",
+		items: [{
+			item: "minecraft:chest"
+		}]
+	}],
+	rewards: [{
+		uid: "43157511",
+		type: "item",
+		item: "securitycraft:keypad_chest"
+	},
+	{
+		uid: "31cdb88d",
+		type: "ftbmoney:money",
+		ftb_money: 7L
+	}]
+}

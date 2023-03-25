@@ -1,0 +1,26 @@
+{
+	x: 2.0d,
+	y: -3.0d,
+	dependencies: [
+		"0bdface4"
+	],
+	tasks: [{
+		uid: "8ddace77",
+		type: "xp",
+		value: 100000L,
+		points: false
+	}],
+	rewards: [{
+		uid: "a6d6b863",
+		type: "item",
+		item: {
+			id: "draconicevolution:dislocator_advanced",
+			tag: {}
+		}
+	},
+	{
+		uid: "26e08da0",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

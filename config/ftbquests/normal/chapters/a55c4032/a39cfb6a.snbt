@@ -1,0 +1,24 @@
+{
+	x: -2.0d,
+	y: -1.0d,
+	dependencies: [
+		"3f8b917f"
+	],
+	tasks: [{
+		uid: "b4f749f2",
+		type: "item",
+		items: [{
+			item: "projecte:dm_furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "5eace4bf",
+		type: "item",
+		item: "projecte:item.pe_matter"
+	},
+	{
+		uid: "c2f8d6b7",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

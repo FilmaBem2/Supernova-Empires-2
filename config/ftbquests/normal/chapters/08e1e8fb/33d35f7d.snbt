@@ -1,0 +1,24 @@
+{
+	title: "Go to the HELL",
+	x: -17.0d,
+	y: -5.0d,
+	dependencies: [
+		"eed7e397",
+		"904da7c5"
+	],
+	tasks: [{
+		uid: "bd2a4f20",
+		type: "dimension",
+		dim: -1
+	}],
+	rewards: [{
+		uid: "454f19bf",
+		type: "xp",
+		xp: 1000
+	},
+	{
+		uid: "f0eea669",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

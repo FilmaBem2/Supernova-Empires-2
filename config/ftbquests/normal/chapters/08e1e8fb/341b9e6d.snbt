@@ -1,0 +1,29 @@
+{
+	title: "Getting Wood",
+	icon: "minecraft:planks",
+	x: -21.0d,
+	y: -9.0d,
+	tasks: [{
+		uid: "d496821d",
+		type: "item",
+		items: [{
+			item: "minecraft:planks"
+		}]
+	}],
+	rewards: [{
+		uid: "f5179ba8",
+		type: "item",
+		item: "minecraft:cobblestone",
+		count: 8
+	},
+	{
+		uid: "6a4c5e61",
+		type: "ftbmoney:money",
+		ftb_money: 2L
+	},
+	{
+		uid: "d3b17fb3",
+		type: "loot",
+		table: 2
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: -1.0d,
+	y: -1.0d,
+	dependencies: [
+		"bd2a4f20"
+	],
+	tasks: [{
+		uid: "de5561b6",
+		type: "kill",
+		icon: "minecraft:gold_nugget",
+		entity: "minecraft:zombie_pigman",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "8514d8ee",
+		type: "item",
+		item: "minecraft:gold_block"
+	},
+	{
+		uid: "23948102",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

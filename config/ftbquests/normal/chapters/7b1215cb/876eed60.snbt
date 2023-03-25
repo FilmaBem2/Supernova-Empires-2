@@ -1,0 +1,25 @@
+{
+	x: -3.0d,
+	y: 0.0d,
+	dependencies: [
+		"c5934a9a"
+	],
+	tasks: [{
+		uid: "2ab23295",
+		type: "item",
+		items: [{
+			item: "projecte:condenser_mk1"
+		}]
+	}],
+	rewards: [{
+		uid: "092a998b",
+		type: "item",
+		item: "enderio:item_item_conduit",
+		count: 10
+	},
+	{
+		uid: "fc8f3d8d",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

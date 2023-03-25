@@ -1,0 +1,25 @@
+{
+	title: "Cheater",
+	icon: "avaritia:resource 1 5",
+	x: 6.0d,
+	y: -5.0d,
+	dependencies: [
+		"489eac04"
+	],
+	tasks: [{
+		uid: "2e0b1a4c",
+		type: "xp",
+		value: 1000L,
+		points: false
+	}],
+	rewards: [{
+		uid: "a1354c0d",
+		type: "item",
+		item: "securitycraft:dirt_mine"
+	},
+	{
+		uid: "4a8355a5",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

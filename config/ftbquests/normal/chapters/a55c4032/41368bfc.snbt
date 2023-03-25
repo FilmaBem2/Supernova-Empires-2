@@ -1,0 +1,26 @@
+{
+	x: 4.0d,
+	y: -3.0d,
+	dependencies: [
+		"eed7e397"
+	],
+	tasks: [{
+		uid: "09709fed",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:emerald_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8c651ba9",
+		type: "item",
+		item: "cyclicmagic:apple_emerald"
+	},
+	{
+		uid: "e80f2e79",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

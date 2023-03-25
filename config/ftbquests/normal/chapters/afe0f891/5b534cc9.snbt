@@ -1,0 +1,29 @@
+{
+	icon: {
+		id: "minecraft:potion",
+		tag: {
+			Potion: "minecraft:mundane"
+		}
+	},
+	x: -3.0d,
+	y: -5.0d,
+	dependencies: [
+		"65a8b331"
+	],
+	tasks: [{
+		uid: "51f3e983",
+		type: "xp",
+		value: 18L,
+		points: false
+	}],
+	rewards: [{
+		uid: "b1bf460f",
+		type: "item",
+		item: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "enderio:long_confusion"
+			}
+		}
+	}]
+}

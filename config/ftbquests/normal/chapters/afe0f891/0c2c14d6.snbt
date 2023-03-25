@@ -1,0 +1,23 @@
+{
+	x: 6.0d,
+	y: -3.0d,
+	dependencies: [
+		"47ed3ac4"
+	],
+	tasks: [{
+		uid: "87821b07",
+		type: "xp",
+		value: 5000L,
+		points: false
+	}],
+	rewards: [{
+		uid: "adde378b",
+		type: "item",
+		item: "cfm:tv_stand"
+	},
+	{
+		uid: "4ecd801b",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	}]
+}

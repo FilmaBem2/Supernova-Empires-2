@@ -1,0 +1,25 @@
+{
+	x: 0.0d,
+	y: -4.0d,
+	dependencies: [
+		"32fb690e"
+	],
+	tasks: [{
+		uid: "120bcdec",
+		type: "item",
+		items: [{
+			item: "extrautils2:spike_diamond"
+		}]
+	}],
+	rewards: [{
+		uid: "21e61873",
+		type: "item",
+		item: "minecraft:diamond",
+		count: 12
+	},
+	{
+		uid: "24de6ac0",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

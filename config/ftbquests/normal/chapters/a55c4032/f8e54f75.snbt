@@ -1,0 +1,21 @@
+{
+	x: -5.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "a62d9857",
+		type: "item",
+		items: [{
+			item: "car:car_workshop"
+		}]
+	}],
+	rewards: [{
+		uid: "9fe814de",
+		type: "item",
+		item: "car:key"
+	},
+	{
+		uid: "527e6479",
+		type: "ftbmoney:money",
+		ftb_money: 13L
+	}]
+}

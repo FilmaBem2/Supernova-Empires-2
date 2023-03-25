@@ -1,0 +1,26 @@
+{
+	title: "Let's Burn",
+	icon: "minecraft:furnace",
+	x: -19.0d,
+	y: -9.0d,
+	dependencies: [
+		"341b9e6d"
+	],
+	tasks: [{
+		uid: "c294af11",
+		type: "item",
+		items: [{
+			item: "minecraft:furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "a85e06d3",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "d0f026d4",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

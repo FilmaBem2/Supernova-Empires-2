@@ -1,0 +1,25 @@
+{
+	x: 3.0d,
+	y: -1.0d,
+	dependencies: [
+		"a6b1818d"
+	],
+	tasks: [{
+		uid: "27186df6",
+		type: "item",
+		items: [{
+			item: "draconicevolution:crafting_injector 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "4dfcfd58",
+		type: "item",
+		item: "enderio:item_power_conduit 1 2",
+		count: 10
+	},
+	{
+		uid: "a4c5cca2",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

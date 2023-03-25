@@ -1,0 +1,22 @@
+{
+	x: -21.0d,
+	y: -3.0d,
+	dependencies: [
+		"904da7c5"
+	],
+	tasks: [{
+		uid: "37bdb14e",
+		type: "dimension",
+		dim: 1
+	}],
+	rewards: [{
+		uid: "2b7a451b",
+		type: "xp_levels",
+		xp_levels: 10
+	},
+	{
+		uid: "fca537f0",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}
