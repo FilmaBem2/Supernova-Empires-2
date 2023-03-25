@@ -1,0 +1,8 @@
+logs/
+resourcepacks/
+mods/
+saves/
+.curseclient
+manifest.json
+minecraftinstance.json
+modlist.html

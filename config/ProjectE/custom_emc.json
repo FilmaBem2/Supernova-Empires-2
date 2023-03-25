@@ -1,0 +1,940 @@
+{
+  "entries": [
+    {
+      "item": "minecraft:iron_ingot|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:coal|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:diamond|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:flint|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:gold_ingot|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:redstone|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:apple|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:mushroom_stew|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:bread|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:porkchop|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cooked_porkchop|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:fish|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:fish|1",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:fish|2",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:fish|3",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:chicken|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:carrot|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:potato|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:poisonous_potato|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:mutton|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:beetroot|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:rabbit|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:beef|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:melon|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:wheat|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:coal|1",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:quartz|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:emerald|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:nether_star|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:iron_nugget|0",
+      "emc": 0
+    },
+    {
+      "item": "inventorypets:nugget_lapis|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:dye|4",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:log2|1",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:log2|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:log|3",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:log|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:log|1",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:log|2",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:planks|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:planks|1",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:planks|2",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:planks|3",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:planks|4",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:planks|5",
+      "emc": 0
+    },
+    {
+      "item": "quark:stained_planks|1",
+      "emc": 0
+    },
+    {
+      "item": "quark:stained_planks|2",
+      "emc": 0
+    },
+    {
+      "item": "quark:stained_planks|3",
+      "emc": 0
+    },
+    {
+      "item": "quark:stained_planks|4",
+      "emc": 0
+    },
+    {
+      "item": "quark:stained_planks|5",
+      "emc": 0
+    },
+    {
+      "item": "quark:stained_planks|6",
+      "emc": 0
+    },
+    {
+      "item": "quark:stained_planks|7",
+      "emc": 0
+    },
+    {
+      "item": "quark:stained_planks|8",
+      "emc": 0
+    },
+    {
+      "item": "quark:stained_planks|9",
+      "emc": 0
+    },
+    {
+      "item": "quark:stained_planks|0",
+      "emc": 0
+    },
+    {
+      "item": "quark:stained_planks|15",
+      "emc": 0
+    },
+    {
+      "item": "quark:stained_planks|14",
+      "emc": 0
+    },
+    {
+      "item": "quark:stained_planks|13",
+      "emc": 0
+    },
+    {
+      "item": "quark:stained_planks|12",
+      "emc": 0
+    },
+    {
+      "item": "quark:stained_planks|11",
+      "emc": 0
+    },
+    {
+      "item": "quark:stained_planks|10",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_stained_planks|1",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_stained_planks|2",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_planks|0",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_planks|1",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_planks|2",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_planks|3",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_planks|4",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_planks|5",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_stained_planks|0",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_stained_planks|9",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_stained_planks|8",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_stained_planks|7",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_stained_planks|6",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_stained_planks|5",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_stained_planks|4",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_stained_planks|3",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_stained_planks|11",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_stained_planks|10",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_stained_planks|12",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_stained_planks|13",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_stained_planks|14",
+      "emc": 0
+    },
+    {
+      "item": "quark:vertical_stained_planks|15",
+      "emc": 0
+    },
+    {
+      "item": "chococraft:gysahl_green_seeds|0",
+      "emc": 1
+    },
+    {
+      "item": "hatchery:chickenmanure|0",
+      "emc": 1
+    },
+    {
+      "item": "cyclicmagic:sack_ender|0",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:nugget|2",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:nugget|5",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:nugget|6",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:nugget|1",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:ingot|1",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:ingot|2",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:ingot|5",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:ingot|6",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:metal|4",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:metal|5",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:metal|2",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:metal|3",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:metal|7",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:storage|1",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:metal|1",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:metal|0",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:metal|21",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:metal|22",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:metal|23",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:metal|24",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:metal|25",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:seed|0",
+      "emc": 1
+    },
+    {
+      "item": "immersiveengineering:material|3",
+      "emc": 0
+    },
+    {
+      "item": "botania:petal|1",
+      "emc": 0
+    },
+    {
+      "item": "botania:petal|2",
+      "emc": 0
+    },
+    {
+      "item": "botania:petal|3",
+      "emc": 0
+    },
+    {
+      "item": "botania:petal|4",
+      "emc": 0
+    },
+    {
+      "item": "botania:petal|6",
+      "emc": 0
+    },
+    {
+      "item": "botania:petal|8",
+      "emc": 0
+    },
+    {
+      "item": "botania:petal|14",
+      "emc": 0
+    },
+    {
+      "item": "botania:dye|1",
+      "emc": 0
+    },
+    {
+      "item": "botania:dye|2",
+      "emc": 0
+    },
+    {
+      "item": "botania:dye|3",
+      "emc": 0
+    },
+    {
+      "item": "botania:dye|4",
+      "emc": 0
+    },
+    {
+      "item": "botania:dye|6",
+      "emc": 0
+    },
+    {
+      "item": "botania:dye|8",
+      "emc": 0
+    },
+    {
+      "item": "botania:dye|14",
+      "emc": 0
+    },
+    {
+      "item": "botania:fertilizer|0",
+      "emc": 0
+    },
+    {
+      "item": "extrautils2:ironwood_log|0",
+      "emc": 0
+    },
+    {
+      "item": "extrautils2:ironwood_log|1",
+      "emc": 0
+    },
+    {
+      "item": "tropicraft:log|0",
+      "emc": 0
+    },
+    {
+      "item": "tropicraft:log|1",
+      "emc": 0
+    },
+    {
+      "item": "jurassicraft:ginkgo_log|0",
+      "emc": 0
+    },
+    {
+      "item": "jurassicraft:phoenix_log|0",
+      "emc": 0
+    },
+    {
+      "item": "jurassicraft:araucaria_log_petrified|0",
+      "emc": 0
+    },
+    {
+      "item": "jurassicraft:calamites_log|0",
+      "emc": 0
+    },
+    {
+      "item": "jurassicraft:calamites_log_petrified|0",
+      "emc": 0
+    },
+    {
+      "item": "jurassicraft:psaronius_log|0",
+      "emc": 0
+    },
+    {
+      "item": "jurassicraft:phoenix_log_petrified|0",
+      "emc": 0
+    },
+    {
+      "item": "jurassicraft:ginkgo_log_petrified|0",
+      "emc": 0
+    },
+    {
+      "item": "jurassicraft:araucaria_log|0",
+      "emc": 0
+    },
+    {
+      "item": "jurassicraft:psaronius_log_petrified|0",
+      "emc": 0
+    },
+    {
+      "item": "erebus:log_asper|0",
+      "emc": 0
+    },
+    {
+      "item": "erebus:log_cypress|0",
+      "emc": 0
+    },
+    {
+      "item": "erebus:log_balsam|0",
+      "emc": 0
+    },
+    {
+      "item": "erebus:log_rotten|0",
+      "emc": 0
+    },
+    {
+      "item": "erebus:log_marshwood|0",
+      "emc": 0
+    },
+    {
+      "item": "erebus:log_baobab|0",
+      "emc": 0
+    },
+    {
+      "item": "erebus:log_eucalyptus|0",
+      "emc": 0
+    },
+    {
+      "item": "erebus:log_mahogany|0",
+      "emc": 0
+    },
+    {
+      "item": "erebus:log_mossbark|0",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:tower_wood|0",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:magic_log|3",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:twilight_log|0",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:twilight_log|1",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:twilight_log|2",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:twilight_log|3",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:magic_log|0",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:magic_log|1",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:magic_log|2",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:tower_wood|1",
+      "emc": 0
+    },
+    {
+      "item": "erebus:log_scorched|0",
+      "emc": 0
+    },
+    {
+      "item": "extrautils2:ironwood_planks|0",
+      "emc": 0
+    },
+    {
+      "item": "extrautils2:ironwood_planks|1",
+      "emc": 0
+    },
+    {
+      "item": "randomthings:spectreplank|0",
+      "emc": 0
+    },
+    {
+      "item": "tropicraft:plank|0",
+      "emc": 0
+    },
+    {
+      "item": "tropicraft:plank|1",
+      "emc": 0
+    },
+    {
+      "item": "jurassicraft:ginkgo_planks|0",
+      "emc": 0
+    },
+    {
+      "item": "jurassicraft:psaronius_planks|0",
+      "emc": 0
+    },
+    {
+      "item": "jurassicraft:phoenix_planks|0",
+      "emc": 0
+    },
+    {
+      "item": "jurassicraft:araucaria_planks|0",
+      "emc": 0
+    },
+    {
+      "item": "jurassicraft:calamites_planks|0",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:tower_wood|4",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:tower_wood|3",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:tower_wood|2",
+      "emc": 0
+    },
+    {
+      "item": "erebus:planks|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:stick|0",
+      "emc": 0
+    },
+    {
+      "item": "extraplanets:tier11_items|7",
+      "emc": 0
+    },
+    {
+      "item": "extraplanets:tier11_items|8",
+      "emc": 0
+    },
+    {
+      "item": "extraplanets:tier11_items|9",
+      "emc": 0
+    },
+    {
+      "item": "extraplanets:tier11_items|10",
+      "emc": 0
+    },
+    {
+      "item": "extraplanets:tier11_items|11",
+      "emc": 0
+    },
+    {
+      "item": "extraplanets:tier11_items|12",
+      "emc": 0
+    },
+    {
+      "item": "tropicraft:bamboo_stick|0",
+      "emc": 0
+    },
+    {
+      "item": "randomthings:spectrelog|0",
+      "emc": 0
+    },
+    {
+      "item": "tropicraft:bamboo_shoot|0",
+      "emc": 0
+    },
+    {
+      "item": "tropicraft:bundle|1",
+      "emc": 0
+    },
+    {
+      "item": "erebus:log_bamboo|0",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_ingot|1",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_ingot|2",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_ingot|3",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_ingot|4",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_ingot|5",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_ingot|7",
+      "emc": 0
+    },
+    {
+      "item": "howlingmoon:ingot_silver|0",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:ironwood_ingot|0",
+      "emc": 0
+    },
+    {
+      "item": "extraplanets:ingot_lead|0",
+      "emc": 0
+    },
+    {
+      "item": "extraplanets:tier11_items|5",
+      "emc": 0
+    },
+    {
+      "item": "galacticraftplanets:basic_item_venus|1",
+      "emc": 0
+    },
+    {
+      "item": "extraplanets:ingot_uranium|0",
+      "emc": 0
+    },
+    {
+      "item": "extraplanets:tier5_items|7",
+      "emc": 0
+    },
+    {
+      "item": "iceandfire:silver_ingot|0",
+      "emc": 0
+    },
+    {
+      "item": "iceandfire:sapphire_gem|0",
+      "emc": 0
+    },
+    {
+      "item": "galacticraftcore:basic_item|3",
+      "emc": 0
+    },
+    {
+      "item": "galacticraftcore:basic_item|5",
+      "emc": 0
+    },
+    {
+      "item": "galacticraftcore:basic_item|4",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:clay_ball|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:gunpowder|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:slime_ball|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:ender_pearl|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:blaze_rod|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:ghast_tear|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:egg|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:melon_seeds|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:pumpkin_seeds|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:beetroot_seeds|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:chorus_fruit|0",
+      "emc": 0
+    },
+    {
+      "item": "openblocks:tank|0",
+      "emc": 0
+    },
+    {
+      "item": "erebus:planks|1",
+      "emc": 0
+    },
+    {
+      "item": "erebus:planks|8",
+      "emc": 0
+    },
+    {
+      "item": "erebus:planks|7",
+      "emc": 0
+    },
+    {
+      "item": "erebus:planks|6",
+      "emc": 0
+    },
+    {
+      "item": "erebus:planks|5",
+      "emc": 0
+    },
+    {
+      "item": "erebus:planks|3",
+      "emc": 0
+    },
+    {
+      "item": "erebus:planks|4",
+      "emc": 0
+    },
+    {
+      "item": "erebus:planks|2",
+      "emc": 0
+    },
+    {
+      "item": "erebus:planks|9",
+      "emc": 0
+    },
+    {
+      "item": "erebus:planks|10",
+      "emc": 0
+    },
+    {
+      "item": "erebus:planks|12",
+      "emc": 0
+    },
+    {
+      "item": "erebus:planks|11",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:bone|0",
+      "emc": 0
+    },
+    {
+      "item": "erebus:gaean_keystone|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:dye|3",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:glass|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:sponge|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:sponge|1",
+      "emc": 0
+    },
+    {
+      "item": "jurassicraft:crickets|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:rabbit_foot|0",
+      "emc": 0
+    },
+    {
+      "item": "tp:tiny_charcoal|0",
+      "emc": 0
+    }
+  ]
+}

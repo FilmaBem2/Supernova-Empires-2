@@ -1,0 +1,197 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  renderorder = background
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = top-right
+  x = -98
+  action = movebutton
+  y = 50
+}
+
+customization {
+  identifier = %id=400382%
+  width = 105
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = top-right
+  x = -98
+  action = movebutton
+  y = 72
+}
+
+customization {
+  identifier = %id=502382%
+  width = 103
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = top-right
+  x = -98
+  action = movebutton
+  y = 28
+}
+
+customization {
+  identifier = %id=400322%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = 244
+  action = movebutton
+  y = -174
+}
+
+customization {
+  identifier = %id=400298%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttondescription
+  description = Play Alone
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  path = fbmods/fbmods3.png
+  orientation = top-left
+  x = -4
+  width = 688
+  action = addtexture
+  y = -2
+  height = 468
+}
+
+customization {
+  showname = true
+  orientation = top-left
+  crouching = false
+  x = 408
+  slim = false
+  action = addentity
+  y = 356
+  scale = 60
+  playername = ramajoao
+  parrot = false
+}
+
+customization {
+  showname = true
+  orientation = top-left
+  crouching = false
+  x = 303
+  slim = false
+  action = addentity
+  y = 358
+  scale = 60
+  playername = rcst4r
+  parrot = false
+}
+
+customization {
+  showname = true
+  orientation = top-left
+  crouching = false
+  x = 518
+  slim = false
+  action = addentity
+  y = 355
+  scale = 60
+  playername = Filma_Bem
+  parrot = false
+}
+
+customization {
+  showname = true
+  orientation = top-left
+  crouching = false
+  x = 196
+  slim = false
+  action = addentity
+  y = 356
+  scale = 60
+  playername = alexandreteemo
+  parrot = false
+}
+
+customization {
+  showname = true
+  orientation = top-left
+  crouching = false
+  x = 55
+  slim = false
+  action = addentity
+  y = 349
+  scale = 100
+  playername = %playername%
+  parrot = false
+}
+
+customization {
+  path = fbmods/bh.png
+  orientation = top-left
+  x = 544
+  width = 137
+  action = addtexture
+  y = 319
+  height = 41
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  centered = false
+  x = 583
+  action = addtext
+  y = 314
+  scale = 1.0
+  value = Partenered with:
+}
+
+customization {
+  orientation = top-left
+  buttonaction = openlink
+  x = 557
+  width = 125
+  action = addbutton
+  y = 291
+  description = Rent a server on Bisect Hosting Now!
+  label = Get a Server
+  value = https://www.bisecthosting.com/filmabem
+  height = 20
+}
+
